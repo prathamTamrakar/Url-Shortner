@@ -50,10 +50,10 @@ This project provides a service to convert long URLs into short, easily shareabl
    MONGODB_URI=your_mongo_connection_string
    BASE_URL=http://localhost:3000
    ```
-4.Start the server
-  ```bash
-  npm start
-  ```
+4. Start the server
+   ```bash
+   npm start
+   ```
 5. Visit in browser
     Open http://localhost:8001 and use the UI to shorten URLs
 
@@ -94,6 +94,7 @@ Url-Shortner/
 ├── .gitignore
 └── README.md
 ```
+
 
 
 
